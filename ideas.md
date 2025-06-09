@@ -18,3 +18,6 @@ Einrückungen beim 1., 2., 3. Plant stage
 
 # Probleme
 Keiner von den Panels passt in den gefoldeten Spike, außer die Beine.
+
+# Credits
+**3D Modell** https://www.printables.com/@MatyasFlek/models
